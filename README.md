@@ -1,5 +1,18 @@
 # 💫 About Me:
-I’m Currently Working on RAG’s and Several AI Agents.<br>ask me anything about Python for Trivia i would really encourage it
+# 👋 Hi, I’m Pradhyumna Kanth Goud Kasula  
+*(I go by Pradhyumna Kasula)*
+
+I work at the intersection of **data, systems engineering, and applied AI**.
+
+My experience spans **analysis, backend engineering, and AI-driven systems** — from building RAG pipelines and enterprise chatbots to designing data-centric workflows that prioritize reliability, clarity, and real-world use.
+
+I enjoy working with **data at every stage**: understanding it, modeling it, engineering systems around it, and using it to make better decisions — whether or not AI is involved.
+
+### What I’m working toward
+- Building **production-grade data and AI systems**
+- Roles closer to **data engineering, applied ML, or AI engineering**
+- Solving **practical problems** with clean, maintainable code
+
 
 
 ## 🌐 Socials:
@@ -10,19 +23,19 @@ I’m Currently Working on RAG’s and Several AI Agents.<br>ask me anything abo
 
 ## 🧠 A Few Things About Me
 
-More listener than talker, but I usually have an opinion
+- More listener than talker, but I usually have an opinion
 
-Drawn to systems, patterns, and edge cases
+- Drawn to systems, patterns, and edge cases
 
-Big on films, binge-worthy series, and rom-coms
+- Big on films, binge-worthy series, and rom-coms
 
-Partial to sadcore / melancholic music
+- Partial to Pop music and Pop Culture
 
-Prefer clarity over cleverness, in both code and conversation
+- Prefer clarity over cleverness, in both code and conversation
 
-##📌 Current Belief
+## 📌 Current Belief
 
-Quiet, well-designed systems outlast loud ones.
+> Quiet, well-designed systems outlast loud ones.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kpkanth7&icon=0&color=0)](https://visitcount.itsvg.in)
