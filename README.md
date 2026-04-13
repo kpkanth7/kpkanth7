@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I’m Pradhyumna Kanth Goud Kasula  
 *(I go by Pradhyumna Kasula)*
 
